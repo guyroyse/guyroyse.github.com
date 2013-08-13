@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Client-side Session Handline"
+title:  "Client-Side Session Handling"
 date:   2011-03-10 11:01:00
 categories: javascript code
 ---
