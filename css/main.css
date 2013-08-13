@@ -4,3 +4,10 @@ body {
   font: 13px Verdana, sans-serif;
   width: 960px;
 }
+
+body>header {
+  background-image: url('http://files.guyroyse.com/template/alien-sunrise-banner.jpg');
+  width: 100%;
+  margin: 0 auto 10px;
+  border: 1px solid #000000;
+}
