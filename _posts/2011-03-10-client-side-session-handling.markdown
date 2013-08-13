@@ -58,15 +58,15 @@ through the defined session object. Here's the code:
 
 {% highlight javascript %}
 var session = session || parent.session || (function() {
- var sessionValues = {};
- return {
-   setFoo : function(value) {
-     sessionValues.foo = value;
-   },
-   getFoo : function() {
-     return sessionValues.foo;
-   }
- };
+  var sessionValues = {};
+  return {
+    setFoo : function(value) {
+      sessionValues.foo = value;
+    },
+    getFoo : function() {
+      return sessionValues.foo;
+    }
+  };
 })();
 {% endhighlight %}
 
