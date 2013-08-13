@@ -2,12 +2,74 @@ body {
   background-color: #000000;
   color: #cccccc;
   font: 13px Verdana, sans-serif;
+  margin: 60px auto;
   width: 960px;
+}
+
+a {
+  color: rgb(120, 183, 73);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(242, 152, 76)
 }
 
 body>header {
   background-image: url('http://files.guyroyse.com/template/alien-sunrise-banner.jpg');
-  width: 100%;
-  margin: 0 auto 10px;
+  padding: 5px;
+}
+
+body>header>hgroup {
+  text-transform: lowercase;
+  text-align: center;
   border: 1px solid #000000;
+}
+
+body>header>hgroup>h1 {
+  font-size: 36px;
+  font-weight: normal;
+  letter-spacing: 20px;
+  margin: 0px;
+  padding: 20px 0px 10px;
+}
+
+body>header>hgroup>h1>a {
+  color: #000000;
+}
+
+body>header>hgroup>h1>a:hover {
+  color: #000000;
+}
+
+body>header>hgroup>h2 {
+  color: rgb(204, 204, 204);
+  font-size: 11px;
+  font-weight: normal;
+  letter-spacing: 2px;
+  padding: 0px 0px 20px;
+  margin: 0px;
+}
+
+nav {
+  font-size: 15px;
+  letter-spacing: 5px;
+  text-align: center;
+  word-spacing: 10px;
+  text-transform: lowercase;
+  padding: 20px 0px;
+  color: rgb(119, 119, 119);
+}
+
+nav>ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+nav>ul>li {
+  display: inline;
+}
+
+nav>ul>li + li:before{
+  content: " | ";
 }
