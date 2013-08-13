@@ -3,6 +3,7 @@ layout: post
 title:  "Client-Side Session Handling"
 date:   2011-03-10 11:01:00
 categories: javascript code
+tags: javascript code
 ---
 
 OK. Let's say you've got some big, bulky, enterprisey application. This
