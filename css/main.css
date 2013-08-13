@@ -16,7 +16,7 @@ a:hover {
 }
 
 body>header {
-  background-image: url('http://files.guyroyse.com/template/alien-sunrise-banner.jpg');
+  background-image: url('/images/alien-sunrise-banner.jpg');
   padding: 5px;
 }
 
@@ -72,4 +72,9 @@ nav>ul>li {
 
 nav>ul>li + li:before{
   content: " | ";
+}
+
+footer {
+  text-align: center;
+  padding: 75px 0px;
 }
