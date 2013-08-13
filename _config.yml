@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+name: GuyRoyse.com
 markdown: redcarpet
 pygments: true
+timezone: America/Detroit
+future: false
+safe: true
