@@ -15,42 +15,6 @@ a:hover {
   color: rgb(242, 152, 76)
 }
 
-body>header {
-  background-image: url('/images/alien-sunrise-banner.jpg');
-  padding: 5px;
-}
-
-body>header>hgroup {
-  text-transform: lowercase;
-  text-align: center;
-  border: 1px solid #000000;
-}
-
-body>header>hgroup>h1 {
-  font-size: 36px;
-  font-weight: normal;
-  letter-spacing: 20px;
-  margin: 0px;
-  padding: 20px 0px 10px;
-}
-
-body>header>hgroup>h1>a {
-  color: #000000;
-}
-
-body>header>hgroup>h1>a:hover {
-  color: #000000;
-}
-
-body>header>hgroup>h2 {
-  color: rgb(204, 204, 204);
-  font-size: 11px;
-  font-weight: normal;
-  letter-spacing: 2px;
-  padding: 0px 0px 20px;
-  margin: 0px;
-}
-
 nav {
   font-size: 15px;
   letter-spacing: 5px;
