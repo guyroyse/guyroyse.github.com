@@ -1,0 +1,16 @@
+body {
+  background-color: #000000;
+  color: #cccccc;
+  font: 13px Verdana, sans-serif;
+  margin: 60px auto;
+  width: 960px;
+}
+
+a {
+  color: rgb(120, 183, 73);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(242, 152, 76)
+}

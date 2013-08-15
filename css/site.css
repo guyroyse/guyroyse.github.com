@@ -2,4 +2,11 @@
 ---
 {% include css/normalize.css %}
 {% include css/syntax.css %}
+
+{% include css/global.css %}
+
+{% include css/header.css %}
+{% include css/navbar.css %}
 {% include css/main.css %}
+{% include css/sidebar.css %}
+{% include css/footer.css %}

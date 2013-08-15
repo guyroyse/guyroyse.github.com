@@ -1,0 +1,22 @@
+nav {
+  font-size: 15px;
+  letter-spacing: 5px;
+  text-align: center;
+  word-spacing: 10px;
+  text-transform: lowercase;
+  padding: 20px 0px;
+  color: rgb(119, 119, 119);
+}
+
+nav>ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+nav>ul>li {
+  display: inline;
+}
+
+nav>ul>li + li:before{
+  content: " | ";
+}
