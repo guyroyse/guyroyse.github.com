@@ -3,11 +3,7 @@ body>aside {
   float: left;
 }
 
-body>aside>section>div.twitter {
-  text-align: center
-}
-
-body>aside>section>h1 {
+body>aside h1 {
   border-color: rgb(119, 119, 119);
   border-bottom-style: solid;
   border-width: 1px;
@@ -15,8 +11,14 @@ body>aside>section>h1 {
   font-size: 11px;
   letter-spacing: 2px;
   text-transform: lowercase;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
   padding-bottom: 2px;
+}
+
+body>aside ul {
+  text-transform: lowercase;
+  list-style-type: none;
+  padding-left: 15px;
 }
 
 body>section {
