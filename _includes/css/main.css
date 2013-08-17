@@ -12,7 +12,7 @@ body>aside h1 {
   letter-spacing: 2px;
   text-transform: lowercase;
   margin-bottom: 10px;
-  padding-bottom: 2px;
+  padding-bottom: 2px;  
 }
 
 body>aside ul {
@@ -21,11 +21,21 @@ body>aside ul {
   padding-left: 15px;
 }
 
-body>aside span.post-date {
+body>aside li {
+  display: inline-block;
+}
+
+body>aside div.post-date {
+  width: 35px;
   color: rgb(119, 119, 119);
   text-align: left;
   text-transform: uppercase;
-  font: 12px Andale Mono, monospace;
+  float: left;
+}
+
+body>aside div.post-title {
+  width: 220px;
+  float: right;
 }
 
 body>section {
