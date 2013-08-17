@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
+
+{% include html/archive.html %}
+
+<section>
+
+<h1>{{ page.date | date: "%A, %B %d, %Y" }}</h1>
+<h2>{{ page.title }}</h2>
+
 <article>
-
-<header>
-  <h1>{{ page.title }}</h2>
-</header>
-
 {{ content }}
-
-<footer>
-  <time datetime="{{ page.date }}" pubdate>{{ page.date | datetime: %A, %B %d, %Y }}</time>
-</footer>
-
 <article>
+
+</section>
