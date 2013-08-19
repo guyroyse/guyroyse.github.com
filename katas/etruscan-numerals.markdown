@@ -1,19 +1,24 @@
 ---
 layout: kata
-title: Etruscan Numerals Kata
+title: Etruscan Numerals
 ---
 
-# Etruscan Numerals
+# Overview
 
-Those crafty Romans stole everything. Art, religion, and -- as it turns out -- numbers.  What we call "Roman" numerals are really Etruscan numerals.
+Those crafty Romans stole everything. Art, religion, and -- as it turns out --
+numbers.  What we call "Roman" numerals are really Etruscan numerals.
 
-But, just because the Romans stole their numbering system -- unlike modern numbers which totally weren't stolen from the Arabs -- doesn't mean that we can't have some fun coding up some converters.
+But, just because the Romans stole their numbering system -- unlike modern
+numbers which totally weren't stolen from the Arabs -- doesn't mean that we
+can't have some fun coding up some converters.
 
-Your job is to test-drive a function that converts from Arabic to Roman numerals.  When you are done with that, write a function that goes the other way.
+Your job is to test-drive a function that converts from Arabic to Roman
+numerals.  When you are done with that, write a function that goes the other
+way.
 
 Here's a refresher on Etruscan *ahem* Roman numerals.
 
-## Basic Values
+# Basic Values
 
         1 = I
         5 = V
@@ -23,7 +28,7 @@ Here's a refresher on Etruscan *ahem* Roman numerals.
       500 = D
      1000 = M
 
-## Putting Them Together
+# Putting Them Together
 
         1 = I
         2 = II
@@ -42,8 +47,11 @@ Here's a refresher on Etruscan *ahem* Roman numerals.
    
 If you are utterly unfamiliar with Roman numerals, I would suggest Google.
 
-## Hints
+# Hints
 
-A good test to start with would be 1 returns I.  2 and 3 are good follow ons to it.  But, the next best test is not necessarily the next number.  Think aboue the code you want to test drive and what tests would drive your code in the direction you want it to go.
+A good test to start with would be 1 returns I.  2 and 3 are good follow ons to
+it.  But, the next best test is not necessarily the next number.  Think about
+the code you want to test drive and what tests would drive your code in the
+direction you want it to go.
 
 Have fun and _semper ubi sububi_!

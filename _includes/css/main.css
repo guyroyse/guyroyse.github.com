@@ -75,6 +75,20 @@ body>section>article {
   line-height: 20px;
 }
 
+body>section>article>h1 {
+  color: rgb(242, 152, 76);
+  font-size: 16px;
+  text-transform: lowercase;
+  margin-left: -20px;
+}
+
+body>section>article>h2 {
+  color: rgb(242, 152, 76);
+  font-size: 14px;
+  text-transform: lowercase;
+  margin-left: -10px;
+}
+
 body>section>footer {
   font-size: 16px;
   text-align: center;

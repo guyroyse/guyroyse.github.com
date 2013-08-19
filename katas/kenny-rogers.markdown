@@ -1,19 +1,25 @@
 ---
 layout: kata
-title: Kenny Rogers Kata
+title: Kenny Rogers
 ---
 
-# Kenny Rogers Kata
+# Overview
 
-This is the kata that will help you know when to hold 'em, fold 'em, walk away, or run.  Or something.
+This is the kata that will help you know when to hold 'em, fold 'em, walk away,
+or run.  Or something.
 
-The exercise is simple. Write a function that takes two poker hands and declares the winner (or a tie).
+The exercise is simple. Write a function that takes two poker hands and
+declares the winner (or a tie).
 
-It might be worthwhile to think of this as a comparator function.  In fact, there's no reason that it can't just return -1, 0, 1 in classic comparator fashion.  And, if you are feeling really ambitious, go ahead and use it to sort an array of poker hands.
+It might be worthwhile to think of this as a comparator function.  In fact,
+there's no reason that it can't just return -1, 0, 1 in classic comparator
+fashion.  And, if you are feeling really ambitious, go ahead and use it to sort
+an array of poker hands.
 
-## Valid Poker Hands
+# Valid Poker Hands
 
-Just for those of y'all who might need a refresher on the topic, here are the power hands ranked best to worst.
+Just for those of y'all who might need a refresher on the topic, here are the
+power hands ranked best to worst.
 
 | Hand Rank       | Description                                                            |
 | --------------- | ---------------------------------------------------------------------- |
@@ -30,20 +36,23 @@ Just for those of y'all who might need a refresher on the topic, here are the po
 | High Card       | a card                                                                 |
 
 
-## Bonus
+# Bonus
 
-In the event of a tie, some people like to use suit as a tie breaker.  Here are the suit orders from highest to lowest.
+In the event of a tie, some people like to use suit as a tie breaker.  Here are
+the suit orders from highest to lowest.
 
       Spades
       Hearts
       Clubs
       Diamonds
 
-## Even More Bonus
+# Even More Bonus
 
-Wild cards.  Add a list of wildcards to your funciton.  Hilarity ensues as the odds get all messed up.
+Wild cards.  Add a list of wildcards to your funciton.  Hilarity ensues as the
+odds get all messed up.
 
-## Hints
+# Hints
 
-Don't build an object model up front to represent cards.  Just write enough code to compare two hands.  A good test to start with would be high card wins.
+Don't build an object model up front to represent cards.  Just write enough
+code to compare two hands.  A good test to start with would be high card wins.
 
