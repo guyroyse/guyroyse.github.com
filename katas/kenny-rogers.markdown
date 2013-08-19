@@ -41,10 +41,12 @@ power hands ranked best to worst.
 In the event of a tie, some people like to use suit as a tie breaker.  Here are
 the suit orders from highest to lowest.
 
-      Spades
-      Hearts
-      Clubs
-      Diamonds
+| Suit     |
+| -------- |
+| Spades   |
+| Hearts   |
+| Clubs    |
+| Diamonds |
 
 # Even More Bonus
 
