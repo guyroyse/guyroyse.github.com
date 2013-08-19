@@ -1,28 +1,22 @@
 ---
-layout: default
-title: Home
+layout: blog
+title: Blog
 ---
 
-{% include html/archive.html %}
+{% for post in paginator.posts %}
 
-<section>
+  {% capture p_date %}{{ post.date | date: "%A, %B %d, %Y" }}{% endcapture %}
+  {% capture np_date %}{{ post.next.date | date: "%A, %B %d, %Y" }}{% endcapture %}
+  {% if p_date != np_date %}
+    <h1>{{ p_date }}</h1>
+  {% endif %}
 
-  {% for post in paginator.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
-    {% capture p_date %}{{ post.date | date: "%A, %B %d, %Y" }}{% endcapture %}
-    {% capture np_date %}{{ post.next.date | date: "%A, %B %d, %Y" }}{% endcapture %}
-    {% if p_date != np_date %}
-      <h1>{{ p_date }}</h1>
-    {% endif %}
+  <article>
+    {{ post.content }}
+  </article>
 
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{% endfor %}
 
-    <article>
-      {{ post.content }}
-    </article>
-
-  {% endfor %}
-
-  {% include html/paginator.html %}
-
-</section>
+{% include html/paginator.html %}
