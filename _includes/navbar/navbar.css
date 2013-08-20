@@ -1,4 +1,4 @@
-nav {
+nav.site {
   font-size: 15px;
   letter-spacing: 5px;
   text-align: center;
@@ -8,15 +8,15 @@ nav {
   color: rgb(119, 119, 119);
 }
 
-nav>ul {
+nav.site ul {
   list-style-type: none;
   padding: 0px;
 }
 
-nav>ul>li {
+nav.site li {
   display: inline;
 }
 
-nav>ul>li + li:before{
+nav.site li + li:before{
   content: " | ";
 }

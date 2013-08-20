@@ -1,15 +1,15 @@
-body>header {
+header.site {
   background-image: url('/images/alien-sunrise-banner.jpg');
+  text-transform: lowercase;
+  text-align: center;
   padding: 5px;
 }
 
-body>header>hgroup {
-  text-transform: lowercase;
-  text-align: center;
+header.site>hgroup {
   border: 1px solid #000000;
 }
 
-body>header>hgroup>h1 {
+header.site h1 {
   font-size: 36px;
   font-weight: normal;
   letter-spacing: 20px;
@@ -17,15 +17,15 @@ body>header>hgroup>h1 {
   padding: 20px 0px 10px;
 }
 
-body>header>hgroup>h1>a {
+header.site a {
   color: #000000;
 }
 
-body>header>hgroup>h1>a:hover {
+header.site a:hover {
   color: #000000;
 }
 
-body>header>hgroup>h2 {
+header.site h2 {
   color: rgb(204, 204, 204);
   font-size: 11px;
   font-weight: normal;
