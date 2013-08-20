@@ -20,32 +20,37 @@ Here's a refresher on Etruscan *ahem* Roman numerals.
 
 # Basic Values
 
-        1 = I
-        5 = V
-       10 = X
-       50 = L
-      100 = C
-      500 = D
-     1000 = M
+| Arabic | Etruscan |
+| ------ | -------- |
+|      1 |  I       |  
+|      5 |  V       |
+|     10 |  X       |
+|     50 |  L       |
+|    100 |  C       |
+|    500 |  D       |
+|   1000 |  M       | 
 
 # Putting Them Together
 
-        1 = I
-        2 = II
-        3 = III  (sensing a pattern here?)
-        4 = IV   (maybe not)
-        5 = V
-        6 = VI
-        7 = VII
-        8 = VIII
-        9 = IX
-       10 = X
-       23 = XXIII
-       42 = XLII
-     1776 = MDCCLXXVI
-     2013 = MMXIII
+| Arabic | Etruscan  |                           |
+| ------ | --------- | ------------------------- |
+|      1 | I         |                           |                  
+|      2 | II        |                           |               
+|      3 | III       | (sensing a pattern here?) |
+|      4 | IV        | (maybe not)               |
+|      5 | V         |                           |              
+|      6 | VI        |                           |               
+|      7 | VII       |                           |                
+|      8 | VIII      |                           |                 
+|      9 | IX        |                           |               
+|     10 | X         |                           |              
+|     23 | XXIII     |                           |                  
+|     42 | XLII      |                           |                 
+|   1776 | MDCCLXXVI |                           |                        
+|   2013 | MMXIII    |                           |                   
    
-If you are utterly unfamiliar with Roman numerals, I would suggest Google.
+If you are utterly unfamiliar with Roman numerals, I would suggest
+[Google](http://lmgtfy.com/?q=roman+numerals).
 
 # Hints
 
