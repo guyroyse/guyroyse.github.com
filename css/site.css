@@ -9,5 +9,6 @@
 {% include navbar/navbar.css %}
 {% include menu/menu.css %}
 {% include footer/footer.css %}
+{% include paginator/paginator.css %}
 
 {% include css/main.css %}

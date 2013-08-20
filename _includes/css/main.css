@@ -48,25 +48,3 @@ section.site>article>h2 {
   text-transform: lowercase;
   margin-left: -10px;
 }
-
-section.site>footer {
-  font-size: 16px;
-  text-align: center;
-  border-color: rgb(119, 119, 119);
-  border-top-style: solid;
-  border-width: 1px;
-  text-transform: lowercase;
-}
-
-ul.pages {
-  list-style-type: none;
-  padding: 0px;
-}
-
-li.page {
-  display: inline;
-}
-
-li.page + li.page:before{
-  content: " - ";
-}

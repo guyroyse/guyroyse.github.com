@@ -1,0 +1,22 @@
+footer.paginator {
+  font-size: 16px;
+  text-align: center;
+  border-color: rgb(119, 119, 119);
+  border-top-style: solid;
+  border-width: 1px;
+  text-transform: lowercase;
+}
+
+footer.paginator ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+footer.paginator li {
+  display: inline;
+}
+
+footer.paginator li + li:before{
+  content: " - ";
+}
+

@@ -1,8 +1,8 @@
 <footer class="paginator">
 
-  <ul class="pages">
+  <ul>
 
-    <li class="page">
+    <li>
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
           <a href="/">Previous</a>
@@ -14,7 +14,7 @@
       {% endif %}
     </li>
 
-    <li class="page">
+    <li>
       {% if paginator.page == 1 %}
         1
       {% else %}
@@ -23,7 +23,7 @@
     </li>
 
     {% for count in (2..paginator.total_pages) %}
-      <li class="page">
+      <li>
         {% if count == paginator.page %}
           {{ count }}
         {% else %}
@@ -32,7 +32,7 @@
       </li>
     {% endfor %}
 
-    <li class="page">
+    <li>
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}">Next</a>
       {% else %}
