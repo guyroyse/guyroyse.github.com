@@ -51,6 +51,7 @@ section.site>article>h2 {
 
 section.site table {
   width: 100%;
+  margin-bottom: 20px;
 }
 
 section.site table>thead {
