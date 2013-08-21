@@ -22,10 +22,14 @@ aside.site ul {
 }
 
 aside.site li {
+  line-height: 20px;
+}
+
+aside.blog li {
   display: inline-block;
 }
 
-aside.site div.post-date {
+aside.blog div.post-date {
   width: 35px;
   color: rgb(119, 119, 119);
   text-align: left;
@@ -33,7 +37,7 @@ aside.site div.post-date {
   float: left;
 }
 
-aside.site div.post-title {
+aside.blog div.post-title {
   width: 220px;
   float: right;
 }
