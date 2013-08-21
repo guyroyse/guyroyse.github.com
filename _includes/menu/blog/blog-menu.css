@@ -1,0 +1,22 @@
+aside.blog ul {
+  text-transform: lowercase;
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+aside.blog li {
+  display: inline-block;
+}
+
+aside.blog div.post-date {
+  width: 35px;
+  color: rgb(119, 119, 119);
+  text-align: left;
+  text-transform: uppercase;
+  float: left;
+}
+
+aside.blog div.post-title {
+  width: 220px;
+  float: right;
+}

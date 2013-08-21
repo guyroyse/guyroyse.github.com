@@ -1,0 +1,9 @@
+aside.kata ul {
+  text-transform: lowercase;
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+aside.kata li {
+  line-height: 18px;
+}
