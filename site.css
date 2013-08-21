@@ -1,9 +1,8 @@
 ---
 ---
-{% include css/normalize.css %}
-{% include css/syntax.css %}
-
-{% include css/global.css %}
+{% include normalize.css %}
+{% include syntax.css %}
+{% include global.css %}
 
 {% include header/header.css %}
 {% include navbar/navbar.css %}
