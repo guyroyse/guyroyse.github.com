@@ -5,7 +5,6 @@ blog to Jekyll and GitHub.
 
 ## To Do
 
-  - Clean up style pages
   - Add remaining kata pages
   - Add presentations
   - Add conference schedule
@@ -14,10 +13,11 @@ blog to Jekyll and GitHub.
   - Add español page
   - Add connect page
   - Restyle source code syntax highlighting
-  - Style tables
+  - migrate blog contents
 
 ## Done
 
+  - Style tables
   - Header
   - Footer
   - Navbar
@@ -27,3 +27,4 @@ blog to Jekyll and GitHub.
   - Favicon.ico
   - Blog menu
   - Fix style on menus for Kata pages
+  - Clean up style pages

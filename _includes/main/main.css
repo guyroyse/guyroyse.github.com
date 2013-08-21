@@ -48,3 +48,24 @@ section.site>article>h2 {
   text-transform: lowercase;
   margin-left: -10px;
 }
+
+section.site table {
+  width: 100%;
+}
+
+section.site table>thead {
+  text-align: left;
+  color: rgb(120, 183, 73);
+}
+
+section.site table>tbody>tr:nth-child(2n+1) {
+  background-color: rgb(45, 45, 45);
+}
+
+section.site table th {
+  padding: 1px 5px;
+}
+
+section.site table td {
+  padding: 1px 5px;
+}
