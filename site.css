@@ -6,7 +6,7 @@
 
 {% include header/header.css %}
 {% include navbar/navbar.css %}
-{% include menu/menu.css %}
+{% include sidebar/sidebar.css %}
 {% include main/main.css %}
 {% include footer/footer.css %}
 {% include paginator/paginator.css %}

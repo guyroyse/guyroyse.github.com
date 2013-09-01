@@ -1,5 +1,5 @@
 ---
-layout: kata
+layout: page
 title: Etruscan Numerals
 ---
 
