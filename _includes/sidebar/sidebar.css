@@ -32,26 +32,9 @@ aside.site h1 {
   text-align: right;
 }
 
-
 aside.site ul {
   text-transform: lowercase;
   list-style-type: none;
   padding-right: 15px;
   text-align: right;
 }
-
-/*
-aside.site div.post-date {
-  width: 35px;
-  color: rgb(119, 119, 119);
-  text-align: left;
-  text-transform: uppercase;
-  float: left;
-}
-
-aside.site div.post-title {
-  width: 220px;
-  float: right;
-}
-
-*/

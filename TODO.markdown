@@ -5,19 +5,19 @@ blog to Jekyll and GitHub.
 
 ## To Do
 
-  - Make archive page look pretty
-  - Add photo and link to about to sidebar
   - Add remaining kata pages
   - Add presentations
   - Add conference schedule
   - Add projects
   - Add about page
-  - Add connect info to sidebar
   - Restyle source code syntax highlighting
   - migrate blog contents
 
 ## Done
 
+  - Make archive page look pretty
+  - Add connect info to sidebar
+  - Add photo and link to about to sidebar
   - Style tables
   - Header
   - Footer
