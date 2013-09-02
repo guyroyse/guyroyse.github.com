@@ -5,7 +5,6 @@ blog to Jekyll and GitHub.
 
 ## To Do
 
-  - Restyle source code syntax highlighting
   - Add remaining kata pages
   - Add presentations
   - Add conference schedule
@@ -18,6 +17,7 @@ blog to Jekyll and GitHub.
 
 ## Done
 
+  - Restyle source code syntax highlighting
   - Make archive page look pretty
   - Add connect info to sidebar
   - Add photo and link to about to sidebar

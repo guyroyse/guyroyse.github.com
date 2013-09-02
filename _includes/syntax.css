@@ -1,4 +1,16 @@
-.highlight  { background: #ffffff; }
+.highlight {
+  border-color: rgb(119, 119, 119);
+  border-width: 1px;
+  border-style: solid;
+  padding: 15px;
+  color: rgb(120, 183, 73);
+  background-color: #000000;
+}
+
+.highlight>pre {
+  margin: 0px;
+}
+
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
@@ -36,6 +48,7 @@
 .highlight .nn { color: #555555 } /* Name.Namespace */
 .highlight .nt { color: #000080 } /* Name.Tag */
 .highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .nx { color: rgb(242, 152, 76) } /* Name.Variable */
 .highlight .ow { font-weight: bold } /* Operator.Word */
 .highlight .w { color: #bbbbbb } /* Text.Whitespace */
 .highlight .mf { color: #009999 } /* Literal.Number.Float */
