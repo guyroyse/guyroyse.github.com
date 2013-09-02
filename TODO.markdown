@@ -5,13 +5,16 @@ blog to Jekyll and GitHub.
 
 ## To Do
 
+  - Restyle source code syntax highlighting
   - Add remaining kata pages
   - Add presentations
   - Add conference schedule
   - Add projects
   - Add about page
-  - Restyle source code syntax highlighting
   - migrate blog contents
+  - add blog atom feed
+  - add Google Analytics
+  - add tags and categories
 
 ## Done
 
