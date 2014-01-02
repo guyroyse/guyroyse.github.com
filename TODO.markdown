@@ -5,6 +5,7 @@ blog to Jekyll and GitHub.
 
 ## To Do
 
+  - Add reading list
   - Add remaining kata pages
   - Add presentations
   - Add conference schedule

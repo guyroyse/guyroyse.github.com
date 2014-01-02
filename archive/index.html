@@ -5,12 +5,14 @@ title : Archive
 
 {% for post in site.posts %}
 
-  {% capture p_date %}{{ post.date | date: "%B %Y" }}{% endcapture %}
-  {% capture np_date %}{{ post.next.date | date: "%B %Y" }}{% endcapture %}
+  {% capture p_date %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture np_date %}{{ post.next.date | date: "%Y" }}{% endcapture %}
+
   {% if p_date != np_date %}
     <h1>{{ p_date }}</h1>
   {% endif %}
 
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <div class="date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
 
 {% endfor %}

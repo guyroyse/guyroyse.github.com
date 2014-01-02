@@ -35,6 +35,8 @@ aside.site h1 {
 aside.site ul {
   text-transform: lowercase;
   list-style-type: none;
-  padding-right: 15px;
+  padding-right: 0px;
+  padding-left: 0px;
   text-align: right;
 }
+

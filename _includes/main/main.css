@@ -25,9 +25,17 @@ section.site>h2>a {
   color: rgb(242, 152, 76);
 }
 
-
 section.site>h2>a:hover {
   color: rgb(120, 183, 73);
+}
+
+section.site>div.date {
+  margin-top: -13px;
+  padding-bottom: 10px;
+  font-size: 11px;
+  font-weight: bold;
+  color: rgb(140, 140, 140);
+  letter-spacing: 2px;
 }
 
 section.site>article {
