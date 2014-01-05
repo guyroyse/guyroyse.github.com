@@ -5,11 +5,10 @@ blog to Jekyll and GitHub and what I would like to do in the future.
 
 ## Doing
 
-  - Migrate blog contents
+  - Update domain for GuyRoyse.com
 
 ## To Do
 
-  - Update domain for GuyRoyse.com
   - Add presentations to SlideShare
   - Update SpeakerRate with current schedule
   - Update profiles linked from GuyRoyse.com to use same photo
