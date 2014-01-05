@@ -45,16 +45,16 @@ section.site>article {
 
 section.site>article>h1 {
   color: rgb(242, 152, 76);
-  font-size: 16px;
+  font-size: 14px;
   text-transform: lowercase;
-  margin-left: -20px;
+  margin-left: -10px;
 }
 
 section.site>article>h2 {
   color: rgb(242, 152, 76);
-  font-size: 14px;
+  font-size: 13px;
   text-transform: lowercase;
-  margin-left: -10px;
+  margin-left: 0px;
 }
 
 section.site table {

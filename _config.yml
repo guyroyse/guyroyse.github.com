@@ -6,4 +6,4 @@ pygments: true
 timezone: America/Detroit
 future: false
 safe: true
-paginate: 7
+paginate: 5
