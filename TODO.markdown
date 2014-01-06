@@ -3,15 +3,12 @@
 This list is nothing more than what I have left to do to migrate my Blogger
 blog to Jekyll and GitHub and what I would like to do in the future.
 
-## Doing
-
-  - Update domain for GuyRoyse.com
-
 ## To Do
 
   - Add presentations to SlideShare
   - Update SpeakerRate with current schedule
   - Update profiles linked from GuyRoyse.com to use same photo
+  - Responsive version of GuyRoyse.com
 
 ## Backlog
 
