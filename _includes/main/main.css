@@ -44,14 +44,14 @@ section.site>article {
 }
 
 section.site>article>h1 {
-  color: rgb(242, 152, 76);
+  color: rgb(120, 183, 73);
   font-size: 14px;
   text-transform: lowercase;
   margin-left: -10px;
 }
 
 section.site>article>h2 {
-  color: rgb(242, 152, 76);
+  color: rgb(120, 183, 73);
   font-size: 13px;
   text-transform: lowercase;
   margin-left: 0px;
