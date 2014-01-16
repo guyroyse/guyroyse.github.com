@@ -20,3 +20,4 @@ nav.site li {
 nav.site li + li:before{
   content: " | ";
 }
+
