@@ -1,5 +1,6 @@
 header.site {
   background-image: url('/images/alien-sunrise-banner.jpg');
+  background-position: right;
   text-transform: lowercase;
   text-align: center;
   padding: 5px;

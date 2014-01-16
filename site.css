@@ -10,3 +10,5 @@
 {% include main/main.css %}
 {% include footer/footer.css %}
 {% include paginator/paginator.css %}
+
+{% include responsive.css %}

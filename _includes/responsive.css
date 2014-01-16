@@ -1,0 +1,118 @@
+@media screen and (max-width: 980px) {
+
+  body {
+    width: 95%;
+  }
+
+  aside.site {
+    width: 25%
+  }
+
+  aside.site img {
+    width: 100%;
+  }
+
+  section.site {
+    width: 70%;
+  }
+
+}
+
+@media screen and (max-width: 700px) {
+
+  nav.site {
+    letter-spacing: 3px;
+    word-spacing: 3px;
+  }
+
+}
+
+@media screen and (max-width: 650px) {
+
+  body {
+    width: 95%;
+    margin-top: 10px;
+  }
+
+  aside.site {
+    width: 100%;
+    float: none;
+  }
+
+  aside.site img {
+    width: 100%;
+  }
+
+  section.site {
+    width: 100%;
+    float: none;
+  }
+  
+  header.site h1 {
+    letter-spacing: 10px;
+  }
+
+  aside.site {
+    margin-top: 20px;
+    padding-top: 30px;
+    border-color: rgb(119, 119, 119);
+    border-top-style: solid;
+    border-width: 1px;
+  }
+
+  aside.site img {
+    width: 50%;
+  }
+
+  aside.site figure {
+    text-align: center;
+  }
+
+  aside.site figcaption {
+    text-align: center;
+    font-size: 16px;
+  }
+
+  aside.site h1 {
+    text-align: left;
+  }
+
+  aside.site ul {
+    text-align: left;
+    font-size: 16px;
+  }
+
+}
+
+@media screen and (max-width: 550px) {
+
+  nav.site {
+    letter-spacing: 1px;
+    word-spacing: 0px;
+    padding: 10px 0px;
+  }
+
+}
+
+@media screen and (max-width: 450px) {
+
+  header.site>hgroup {
+    border: 1px solid #000000;
+  }
+
+  header.site h1 {
+    font-size: 24px;
+    letter-spacing: 5px;
+    padding: 10px 0px 10px;
+  }
+
+  header.site h2 {
+    display: none;
+  }
+
+  nav.site {
+    display: none;
+  }
+
+}
+
