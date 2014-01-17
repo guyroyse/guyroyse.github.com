@@ -6,7 +6,7 @@ date:   2009-07-07 23:39:00
 
 So, as planned, here is the sketch for the Zombie Stomp! Gameboard.
 
-[![Zombie Stomp! Game Board Sketch](http://files.guyroyse.com/zombie-stomp/zombie-stomp-gameboard-sketch-small.jpg)](http://files.guyroyse.com/zombie-stomp/zombie-stomp-gameboard-sketch.jpg)
+[![Zombie Stomp! Game Board Sketch](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/dwGIjU7GXL/zombie-stomp/zombie-stomp-gameboard-sketch-small.jpg)](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/0FH_L3P7yb/zombie-stomp/zombie-stomp-gameboard-sketch.jpg)
 
 There are a couple of things to note here:
 

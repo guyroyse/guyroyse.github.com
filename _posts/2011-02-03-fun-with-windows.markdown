@@ -41,8 +41,8 @@ I was back to a non-functioning mouse and keyboard.
 # The Solution
 
 Finally I came across some forum posts suggesting that
-[usb.inf](http://files.guyroyse.com/usb/usb.inf) and
-[usb.pnf](http://files.guyroyse.com/usb/usb.pnf) should exist in Windows\inf
+[usb.inf](https://dl.dropboxusercontent.com/s/1rf8wiam21vqnga/usb.inf) and
+[usb.pnf](https://dl.dropboxusercontent.com/s/45tctugqffp66i6/usb.pnf) should exist in Windows\inf
 and if they didn't that would cause this issue. So, I Googled to find the files
 and copied them in. Then I removed the annoyed USB Receiver driver and detected
 new devices.
