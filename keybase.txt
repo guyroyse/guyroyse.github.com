@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/guyroyse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://guyroyse.com
+  * I am guyroyse (https://keybase.io/guyroyse) on keybase.
+  * I have a public key with fingerprint D5E2 B5EA 5156 3B04 3F2A  9AB6 2D71 2A32 441C A663
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d5e2b5ea51563b043f2a9ab62d712a32441ca663",
+            "host": "keybase.io",
+            "key_id": "2d712a32441ca663",
+            "uid": "9f564b3ffbfb5c60d764c50f1f00b900",
+            "username": "guyroyse"
+        },
+        "service": {
+            "hostname": "guyroyse.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397830429,
+    "expire_in": 157680000,
+    "prev": "7ac3dbf0a2d52928356f7f7984957664367f0f6d3ba5d3c9357c2cdf38757b24",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.8
+Comment: https://keybase.io/crypto
+
+yMHoAnicbZFdSBRdGMdH00SjXgl0hfCjg4Kk2cyc+dhZLSwFw2hlU7wStvk666S7
+s87ObrtuvbwS4UWRbWWFRB8XtSkRRUkWFOJHxIZFUGxoltGFvXWxSvC+YCmekbqJ
+zs3h/J/f//+ch2di4zoiJ+2snNXb0dRqpj0fXQwSzS5YGAWSrkSAIwo61LULaT6P
+avgNzWcCB1BYlZZYVWQploMSyUBEi4IocbTCU7QIaYahZJHjIKgE7XrAcuAYSQyo
+VZqONfxwawpW/8AH1woCYjlGgghJSGJljlR4jpFZElGIJCWBJC0woBo+0ati2hOM
+GHokoIKjlQCrIU3GanSt9W9Elax7sddv6KYu65240m6afodlNCN+izysSu6fGW5J
+8yl4bmwIqUZA033AQWFSNjUrlIICb4ckQwuVQA37NUN1axbB8pydxMdqo4ZwJC/K
+UJEQKdIKSwu0HbIc4hEv2BkBsxwDOR6RiFOgJLIKlAXI8jItKwjaeZaXaAb3D6hd
+Ph04IP6m6MGRAc3jE82ggUceG23LINJyiPWZ6dbmiJzs3F/7rN+TtZy/4kn9f7fx
+ZMahf+44j+QbyfsPnhL3rojvM73Kij3vyVA31VOTmPtaMjI8FBoriz3u7l+ue+ty
+bhv4eCx1ObfBFj4Q/5v4VF7qbb69dyHhBPVTDz/ryWTH/GQ8EYf+g327h1d+dLbd
+vFXhaSq45JpyjouhWMPLawUDPbvy5Ncf3pRvf4Wi7kJ3xl9dgIDh8tmaHUXVSdt4
+b3rx5GmwIau5KNUXyot8s/33pejMuxbTYI73L/1rS22xfS99sXVkWkhlnivenNjZ
+118yUevS6/c33pgOn5otfCbHyk6cfzQfrLjeerGgZd+m2Mxg/MLVherFudrcROvS
+THZd8WDdKrziDSM=
+=7tPo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/guyroyse
+
+==================================================================
