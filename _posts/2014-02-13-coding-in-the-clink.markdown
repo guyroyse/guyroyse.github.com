@@ -22,7 +22,7 @@ Prisoners are people that much of the world wants to turn their back on. If
 people think of them at all they assume that they are all "bad people" and they
 deserve to be there. I can't refute the argument that they deserve to be there
 as, in many cases, it is true. However, in my experience, there are no "bad
-people" there are only bad choices. And when you start to interact with
+people". There are only bad choices. And when you start to interact with
 prisoners you quickly realize that the number of steps between you and them
 really isn't that many. A bad choice or two and you could end up in the same
 place as them.
@@ -41,8 +41,8 @@ need time and assistance in adjusting.
 My cousin spent ten years in prison. I remember when his sister and I first
 picked him up. We gave him a cell phone so he could talk to his mother. He kept
 moving the cell phone from his ear to his mouth and back again because he
-didn't understand how the microphone could pick up his voice without being in
-front of his mouth. He had never used a phone without a handset.
+didn't understand how the microphone could pick possibly up his voice without
+being in front of his mouth. He had never used a phone without a handset.
 
 While in prison my father got sober and it helped to keep him that way. While
 in prison my cousin studied horticulture and was able to get a job within weeks
@@ -53,8 +53,9 @@ So, last month, I decided to help Dan and go to prison too.
 
 Fortunately, Dan has a good forum for introducing people to working with
 prisoners. He calls it "Coding in the Clink". It a sense it is like a
-Coderetreat in prison. Lots of people gather for the day to practice their
-skills. There is food provided. We test drive our code. We pair.
+[Coderetreat](http://coderetreat.org/) in prison. Lots of people gather for the
+day to practice their skills. There is food provided. We test drive our code.
+We pair.
 
 But the pairing is always aligned prisoner to visitor. The prisoners code with
 each other all the time, they need an outside perspective. A visitor could pair
@@ -66,7 +67,7 @@ The format is also different. The coding is in Java for reasons Dan explains
 pair on a machine for an iteration and the next pair on that machine picks up
 the code where it was left off instead of deleting and starting over. At the
 end of the day we come back to our original machine with out original pairing
-partner to see how the code we started changed over the course of the day. 
+partner to see how the code we started changed over the course of the day.
 
 Also, we do not code the Game of Life as the longer format requires a longer
 exercise. At the Coding in the Clink that I attended, I was quite please to be
@@ -107,6 +108,5 @@ because the people on the inside needed my help. I was there because they are
 people.
 
 I'm going to continue going to prison with Dan. Others helped the people in my
-live when they were in prison. People that I don't even know. People that
+life when they were in prison. People that I don't even know. People that
 wanted to be part of the solution. I want to be part of the solution too.
-
