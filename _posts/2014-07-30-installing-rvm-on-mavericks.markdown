@@ -33,6 +33,7 @@ folder.
 
 {% highlight bash %}
 $ ls ~/.rvm
+...lots of stuff...
 {% endhighlight %}
 
 Hooray! It's installed. But it doesn't work. Well, that's because we ain't
