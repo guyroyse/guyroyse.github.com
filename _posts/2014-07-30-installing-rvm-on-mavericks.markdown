@@ -16,7 +16,6 @@ directory and make sure there is not a folder called .rvm.
 
 {% highlight bash %}
 $ ls ~/.rvm
-
 ls: /Users/guy/.rvm: No such file or directory
 {% endhighlight %}
 
