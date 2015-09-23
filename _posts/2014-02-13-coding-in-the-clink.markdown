@@ -66,7 +66,7 @@ The format is also different. The coding is in Java for reasons Dan explains
 [elsewhere](http://javaguys.wordpress.com/2010/10/19/why-java/). We normally
 pair on a machine for an iteration and the next pair on that machine picks up
 the code where it was left off instead of deleting and starting over. At the
-end of the day we come back to our original machine with out original pairing
+end of the day we come back to our original machine with our original pairing
 partner to see how the code we started changed over the course of the day.
 
 Also, we do not code the Game of Life as the longer format requires a longer
