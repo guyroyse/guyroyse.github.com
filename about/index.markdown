@@ -3,8 +3,6 @@ layout: page
 title: About Me
 ---
 
-# Guy Royse
-
 Guy started his career as *gasp* a COBOL programmer. But don't hold that
 against him, it just gives him perspective. He has spent much of his time
 programming in the most popular of the semi-colon delimited languages including
@@ -45,5 +43,3 @@ cow-cat named Madeline, and an entire wall of games. He attends church every
 Sunday—and actually pays attention—but he's not a prude about it.
 
 <sup>*</sup> *Yes, I realize I bemoan the glut of fantasy RPGs but play D&D. Sue me.*
-
-
