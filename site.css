@@ -1,5 +1,7 @@
 ---
 ---
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 {% include normalize.css %}
 {% include syntax.css %}
 {% include global.css %}

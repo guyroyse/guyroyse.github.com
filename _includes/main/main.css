@@ -4,21 +4,20 @@ section.site {
 }
 
 section.site>h1 {
-  border-color: rgb(119, 119, 119);
   border-bottom-style: solid;
-  border-width: 1px;
-  color: rgb(119, 119, 119);
-  font-size: 11px;
+  border-width: 2px;
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
   letter-spacing: 2px;
-  text-transform: lowercase;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
   padding-bottom: 2px;
 }
 
 section.site>h2 {
-  color: rgb(242, 152, 76);
-  font-size: 16px;
-  text-transform: lowercase;
+  font-size: 20px;
+  margin-top: 5px;
+  color: brown;
 }
 
 section.site>h2>a {
@@ -78,4 +77,3 @@ section.site table th {
 section.site table td {
   padding: 1px 5px;
 }
-

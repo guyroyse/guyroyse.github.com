@@ -4,9 +4,10 @@ url: http://guyroyse.com
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-pygments: true
+highlighter: true
 timezone: America/Detroit
 future: false
 safe: true
 paginate: 5
-
+paginate_path: "/blog/page:num/"
+gems: [jekyll-paginate, jekyll-feed]

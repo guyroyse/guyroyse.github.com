@@ -1,17 +1,16 @@
 body {
-  background-color: #000000;
-  color: #cccccc;
-  font: 13px Verdana, sans-serif;
+  background-color: #ffffff;
+  color: #111111;
+  font: 20px Raleway, sans-serif;
   margin: 60px auto;
-  width: 960px;
+  width: 1080px;
 }
 
 a {
-  color: rgb(120, 183, 73);
+  color: brown;
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(242, 152, 76)
+  color: #000000;
 }
-

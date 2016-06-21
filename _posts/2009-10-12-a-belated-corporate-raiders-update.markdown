@@ -44,7 +44,7 @@ in XML. Either of these urls...
 http://corporateraiders.hardboiledgeek.com/api/stock/chch/json
 http://corporateraiders.hardboiledgeek.com/api/stock/chch
 {% endhighlight %}
- 
+
 ...would show you that same info in JSON.
 
 This API is ripe for consumption by fat client and portal device applications.
@@ -69,4 +69,3 @@ start.
 
 So stay tuned.  I'll post updates as I go so that you can watch the sausage
 being made.
-
