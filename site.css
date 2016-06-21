@@ -201,11 +201,10 @@ footer.site {
 }
 
 footer.paginator {
-  font-size: 16px;
+  font-size: 24px;
   text-align: center;
-  border-color: rgb(119, 119, 119);
   border-top-style: solid;
-  border-width: 1px;
+  border-width: 2px;
   text-transform: lowercase;
 }
 
