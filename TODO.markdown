@@ -5,35 +5,11 @@ blog to Jekyll and GitHub and what I would like to do in the future.
 
 ## To Do
 
-  - Add presentations to SlideShare
-  - Update SpeakerRate with current schedule
-  - Update profiles linked from GuyRoyse.com to use same photo
-  - Responsive version of GuyRoyse.com
-
-## Backlog
-
-  - Add reading list
-  - Add better conference schedule (maybe use SpkrBar)
-  - Add atom/rss feed
-  - Add Google Analytics
-  - Add tags and categories
-  - Add comments to blog posts
-
-## Done
-
-  - Add about page
-  - Restyle source code syntax highlighting
-  - Make archive page look pretty
-  - Add connect info to sidebar
-  - Add photo and link to about to sidebar
-  - Style tables
-  - Header
-  - Footer
-  - Navbar
-  - Blog posts
-  - Pagination for blog posts
-  - Pagination widget
-  - Favicon.ico
-  - Blog menu
-  - Fix style on menus for Kata pages
-  - Clean up style pages
+  - update syntax highlighting for upgraded jekyll
+  - update responsiveness of site for new layout
+  - update google analytics
+  - add link to videos
+  - add jQuery & 10,000 Global Functions kata to site
+  - update sidebar links
+  - convert styles to sass
+  - simplify HTML

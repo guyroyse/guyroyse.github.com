@@ -117,12 +117,23 @@ section.site {
 section.site>h1 {
   border-bottom-style: solid;
   border-width: 2px;
+  margin-bottom: 2px;
+  padding-bottom: 2px;
   color: #000000;
   font-size: 18px;
   font-weight: bold;
   letter-spacing: 2px;
-  margin-bottom: 2px;
-  padding-bottom: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+}
+
+section>h1 .permalink {
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: right;
 }
 
 section.site>h2 {
@@ -133,6 +144,8 @@ section.site>h2 {
 
 section.site>h2.dateline {
   text-align: right;
+  margin-top: -15px;
+  margin-bottom: 75px;
 }
 
 section.site>h2>a {
@@ -154,7 +167,7 @@ section.site>div.date {
 
 section.site>article {
   padding: 0px 20px 0px 20px;
-  line-height: 20px;
+  line-height: 25px;
 }
 
 section.site>article>h1 {
@@ -162,13 +175,16 @@ section.site>article>h1 {
   font-size: 20px;
   font-weight: bold;
   margin-left: -10px;
+  border-bottom-style: solid;
+  border-width: 1px;
 }
 
 section.site>article>h2 {
   color: #333333;
   font-size: 18px;
-  text-transform: lowercase;
   margin-left: 0px;
+  border-bottom-style: solid;
+  border-width: 1px;
 }
 
 section.site table {
@@ -203,8 +219,6 @@ footer.site {
 footer.paginator {
   font-size: 24px;
   text-align: center;
-  border-top-style: solid;
-  border-width: 2px;
   text-transform: lowercase;
 }
 
