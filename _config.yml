@@ -1,13 +1,15 @@
 name: GuyRoyse.com
 description: Work. Write. Code. Game. Later. Rinse. Repeat.
 url: http://guyroyse.com
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter: true
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sass-converter
+  - kramdown
+  - rouge
+markdown: kramdown
+highlighter: rouge
 timezone: America/Detroit
-future: false
-safe: true
+safe: false
 paginate: 5
 paginate_path: "/blog/page:num/"
-gems: [jekyll-paginate, jekyll-feed]
