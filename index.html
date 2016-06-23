@@ -15,6 +15,50 @@ title: Blog
 
 {% endfor %}
 
-{% include paginator/paginator.html %}
+<footer class="paginator">
+
+  <ul>
+
+    <li>
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+          <a href="/">Previous</a>
+        {% else %}
+          <a href="{{ paginator.previous_page_path }}">Previous</a>
+        {% endif %}
+      {% else %}
+        Previous
+      {% endif %}
+    </li>
+
+    <li>
+      {% if paginator.page == 1 %}
+        1
+      {% else %}
+        <a href="/">1</a>
+      {% endif %}
+    </li>
+
+    {% for count in (2..paginator.total_pages) %}
+      <li>
+        {% if count == paginator.page %}
+          {{ count }}
+        {% else %}
+          <a href="/blog/page{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+
+    <li>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}">Next</a>
+      {% else %}
+        Next
+      {% endif %}
+    </li>
+
+  </ul>
+
+</footer>
 
 </section>

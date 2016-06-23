@@ -1,9 +1,4 @@
----
----
 @import url(https://fonts.googleapis.com/css?family=Raleway);
-
-{% include normalize.css %}
-{% include syntax.css %}
 
 body {
   background-color: #ffffff;
@@ -234,5 +229,3 @@ footer.paginator li {
 footer.paginator li + li:before{
   content: " - ";
 }
-
-{% include responsive.css %}
