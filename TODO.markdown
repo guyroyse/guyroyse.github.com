@@ -8,6 +8,3 @@ blog to Jekyll and GitHub and what I would like to do in the future.
   - update syntax highlighting for upgraded jekyll
   - update responsiveness of site for new layout
   - update google analytics
-  - convert styles to sass
-  - simplify HTML
-  - redo archive page

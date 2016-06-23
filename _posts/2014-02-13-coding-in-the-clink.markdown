@@ -52,7 +52,7 @@ inside and help them.
 So, last month, I decided to help Dan and go to prison too.
 
 Fortunately, Dan has a good forum for introducing people to working with
-prisoners. He calls it "Coding in the Clink". It a sense it is like a
+prisoners. He calls it "Coding in the Clink". In a sense it is like a
 [Coderetreat](http://coderetreat.org/) in prison. Lots of people gather for the
 day to practice their skills. There is food provided. We test drive our code.
 We pair.

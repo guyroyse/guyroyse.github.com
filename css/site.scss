@@ -5,8 +5,11 @@
 
 $text-color: #111111;
 $background-color: #ffffff;
-$link-color: brown;
+$link-color: #a52a2a;
 $title-color: #111111;
+$subtitle-color: #333333;
+$dateline-color: #333333;
+$alternate-background-color: #faf4ed;
 
 body {
   background-color: $background-color;
@@ -25,6 +28,17 @@ a:hover {
   color: $text-color;
 }
 
+.title {
+  border-bottom-style: solid;
+  border-width: 2px;
+  color: $title-color;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-bottom: 0px;
+  padding-bottom: 2px;
+}
+
 header {
   text-align: left;
   height: 230px;
@@ -36,20 +50,19 @@ header {
   .box {
     border-width: 2px;
     border-style: solid;
-    background-color: #fafafa;
+    background-color: $alternate-background-color;
   }
 
   .title {
+    border-bottom-style: none;
     font-size: 36px;
-    font-weight: bold;
     letter-spacing: 12px;
-    margin: 0px;
     margin-top: 40px;
     padding: 20px 0px 10px 250px;
   }
 
   .tagline {
-    color: #333333;
+    color: $subtitle-color;
     font-size: 14px;
     font-weight: normal;
     letter-spacing: 4px;
@@ -90,22 +103,9 @@ aside {
   text-align: right;
   float: right;
 
-  .title {
-    border-bottom-style: solid;
-    border-width: 2px;
-    color: $title-color;
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    margin-bottom: 0px;
-    padding-bottom: 2px;
-  }
-
   ul {
     margin-top: 5px;
     list-style-type: none;
-    padding-right: 0px;
-    padding-left: 0px;
   }
 
   .license {
@@ -118,118 +118,116 @@ aside {
 main {
   width: 700px;
   float: left;
+
+  .title {
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .permalink {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .dateline {
+    text-align: right;
+    margin-top: -15px;
+    margin-bottom: 75px;
+    color: $dateline-color;
+    font-size: 16px;
+  }
+
+  .archive {
+
+    ul {
+      list-style-type: none;
+      padding: 0px;
+      margin-top: 5px;
+
+      li {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+
+        .date {
+          font-size: 16px;
+          align-self: center;
+        }
+
+      }
+
+    }
+
+  }
+
 }
 
-main>h1 {
-  border-bottom-style: solid;
-  border-width: 2px;
-  margin-bottom: 2px;
-  padding-bottom: 2px;
-  color: $title-color;
-  font-size: 18px;
-  font-weight: bold;
-  letter-spacing: 2px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-end;
-  width: 100%;
-}
-
-h1 .permalink {
-  font-size: 12px;
-  text-transform: uppercase;
-  text-align: right;
-}
-
-main>h2 {
-  font-size: 20px;
-  margin-top: 0px;
-  color: brown;
-}
-
-main>h2.dateline {
-  text-align: right;
-  margin-top: -15px;
-  margin-bottom: 75px;
-}
-
-main>h2>a {
-  color: brown;
-}
-
-main>h2>a:hover {
-  color: brown;
-}
-
-main>div.date {
-  margin-top: -13px;
-  padding-bottom: 10px;
-  font-size: 11px;
-  font-weight: bold;
-  color: rgb(140, 140, 140);
-  letter-spacing: 2px;
-}
-
-main>article {
+article {
   padding: 0px 20px 0px 20px;
   line-height: 25px;
+
+  h1 {
+    color: $subtitle-color;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -10px;
+    border-bottom-style: solid;
+    border-width: 1px;
+  }
+
+  h2 {
+    color: $subtitle-color;
+    font-size: 18px;
+    margin-left: 0px;
+    border-bottom-style: solid;
+    border-width: 1px;
+  }
+
+  table {
+    width: 100%;
+    margin-bottom: 20px;
+
+    thead {
+      text-align: left;
+    }
+
+    tbody>tr:nth-child(2n+1) {
+      background-color: $alternate-background-color;
+    }
+
+    th {
+      padding: 1px 5px;
+    }
+
+    td {
+      padding: 1px 5px;
+    }
+
+  }
+
 }
 
-main>article>h1 {
-  color: #333333;
-  font-size: 20px;
-  font-weight: bold;
-  margin-left: -10px;
-  border-bottom-style: solid;
-  border-width: 1px;
-}
-
-main>article>h2 {
-  color: #333333;
-  font-size: 18px;
-  margin-left: 0px;
-  border-bottom-style: solid;
-  border-width: 1px;
-}
-
-main table {
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-main table>thead {
-  text-align: left;
-  color: rgb(120, 183, 73);
-}
-
-main table>tbody>tr:nth-child(2n+1) {
-  background-color: rgb(45, 45, 45);
-}
-
-main table th {
-  padding: 1px 5px;
-}
-
-main table td {
-  padding: 1px 5px;
-}
-
-footer.paginator {
+.paginator {
   font-size: 24px;
   text-align: center;
   text-transform: lowercase;
-}
 
-footer.paginator ul {
-  list-style-type: none;
-  padding: 0px;
-}
+  ul {
+    list-style-type: none;
+    padding: 0px;
 
-footer.paginator li {
-  display: inline;
-}
+    li {
+      display: inline;
+    }
 
-footer.paginator li + li:before{
-  content: " - ";
+    li + li:before{
+      content: " - ";
+    }
+
+  }
+
 }

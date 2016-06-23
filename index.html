@@ -5,13 +5,13 @@ title: Blog
 
 {% for post in paginator.posts %}
 
-  <h1>{{ post.title }}<a class="permalink" href="{{ post.url }}">permalink</a></h1>
+  <h1 class="title">{{ post.title }}<a class="permalink" href="{{ post.url }}">permalink</a></h1>
 
   <article>
     {{ post.content }}
   </article>
 
-  <h2 class="dateline">&mdash; {{ post.date | date: "%A, %B %d, %Y" }}</h2>
+  <p class="dateline">&mdash; {{ post.date | date: "%B %d, %Y" }}</p>
 
 {% endfor %}
 

@@ -3,16 +3,35 @@ layout: default
 title : Archive
 ---
 
-{% for post in site.posts %}
+<section class="archive">
 
-  {% capture p_date %}{{ post.date | date: "%Y" }}{% endcapture %}
-  {% capture np_date %}{{ post.next.date | date: "%Y" }}{% endcapture %}
+  {% for post in site.posts %}
 
-  {% if p_date != np_date %}
-    <h1>{{ p_date }}</h1>
-  {% endif %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <div class="date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
+    {% if forloop.first %}
+      <h1 class="title">{{ this_year }}</h1>
+      <ul>
+    {% else %}
+      {% if this_year != last_year %}
+        </ul>
 
-{% endfor %}
+        <h1 class="title">{{ this_year }}</h1>
+        <ul>
+      {% endif %}
+    {% endif %}
+
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="date">{{ post.date | date: "%B %d" }}</span>
+    </li>
+
+    {% if forloop.last %}
+      </ul>
+    {% endif %}
+
+    {% capture last_year %}{{ this_year }}{% endcapture %}
+
+  {% endfor %}
+
+</section>
