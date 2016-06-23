@@ -9,10 +9,10 @@
 <title>{{ site.name }} | {{ page.title }}</title>
 
 <link rel="icon" type="image/jpg" href="/images/guy-head.png">
-<link rel="stylesheet" href="/normalize.css">
-<link rel="stylesheet" href="/syntax.css">
-<link rel="stylesheet" href="/site.css">
-<link rel="stylesheet" href="/responsive.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/syntax.css">
+<link rel="stylesheet" href="/css/site.css">
+<link rel="stylesheet" href="/css/responsive.css">
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="http://feeds.feedburner.com/guyroyse" />
 
 <script>
@@ -23,7 +23,6 @@
 
   ga('create', 'UA-46872005-1', 'guyroyse.com');
   ga('send', 'pageview');
-
 </script>
 
 </head>
@@ -31,14 +30,14 @@
 <body>
 
 <header>
-  <a href="/about/"><img src="/images/guy-head.png" /></a>
-  <div>
-    <h1><a href="/">{{ site.name }}</a></h1>
-    <p>Work. Life. Code. Game. Lather. Rinse. Repeat.</p>
+  <a class="logo" href="/about"><img src="/images/guy-head.png" /></a>
+  <div class="box">
+    <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+    <p class="tagline">Work. Life. Code. Game. Lather. Rinse. Repeat.</p>
   </div>
 </header>
 
-<nav class="site">
+<nav>
   <ul>
     <li><a href="/">Blog</a></li>
     <li><a href="http://github.com/guyroyse">Code</a></li>
@@ -50,13 +49,13 @@
   </ul>
 </nav>
 
-<section class="site">
+<main>
   {{ content }}
-</section>
+</main>
 
-<aside class="site">
+<aside>
 
-  <h1>Connect</h1>
+  <h1 class="title">Connect</h1>
   <ul>
     <li><a href="http://twitter.com/guyroyse">Twitter</a></li>
     <li><a href="http://github.com/guyroyse">GitHub</a></li>
@@ -67,14 +66,14 @@
     <li><a href="http://stackoverflow.com/users/513710/guy-royse">Stack Overflow</a></li>
   </ul>
 
-  <h1>Streaming</h1>
+  <h1 class="title">Streaming</h1>
   <ul>
     <li><a href="https://www.youtube.com/channel/UCNt5SDc6LosO41E77jr59cQ">YouTube</a></li>
     <li><a href="https://www.twitch.tv/guyroyse">Twitch</a></li>
     <li><a href="https://www.livecoding.tv/guyroyse/">LiveCoding</a></li>
   </ul>
 
-  <h1>Community</h1>
+  <h1 class="title">Community</h1>
   <ul>
     <li><a href="http://cbusjs.github.io/">CBusJS</a></li>
     <li><a href="http://codemash.org/">CodeMash</a></li>
@@ -82,7 +81,7 @@
     <li><a href="http://www.meetup.com/techlifecolumbus/">TechLife Columbus</a></li>
   </ul>
 
-  <h1>Katas</h1>
+  <h1 class="title">Katas</h1>
   <ul>
     <li><a href="https://github.com/guyroyse/evercraft-kata">Evercraft</a></li>
     <li><a href="https://github.com/guyroyse/vending-machine-kata">Vending Machine</a></li>
@@ -93,11 +92,9 @@
     <li><a href="https://github.com/guyroyse/pig-latin-kata">Pig Latin Kata</a></li>
   </ul>
 
-</aside>
+  <a class="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" rel="license"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png"></a>
 
-<footer class="site">
-  <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" rel="license"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png"></a>
-</footer>
+</aside>
 
 </body>
 

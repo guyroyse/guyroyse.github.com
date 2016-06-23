@@ -1,61 +1,66 @@
+---
+---
+
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
+$text-color: #111111;
+$background-color: #ffffff;
+$link-color: brown;
+$title-color: #111111;
+
 body {
-  background-color: #ffffff;
-  color: #111111;
+  background-color: $background-color;
+  color: $text-color;
   font: 20px Raleway, sans-serif;
   margin: 60px auto;
   width: 1080px;
 }
 
 a {
-  color: brown;
+  color: $link-color;
   text-decoration: none;
 }
 
 a:hover {
-  color: #000000;
+  color: $text-color;
 }
 
 header {
   text-align: left;
   height: 230px;
-}
 
-header img {
-  float: left;
-}
+  .logo {
+    float: left;
+  }
 
-header div {
-  border-width: 2px;
-  border-style: solid;
-  background-color: #fafafa;
-}
+  .box {
+    border-width: 2px;
+    border-style: solid;
+    background-color: #fafafa;
+  }
 
-header h1 {
-  font-size: 36px;
-  font-weight: bold;
-  letter-spacing: 12px;
-  margin: 0px;
-  margin-top: 40px;
-  padding: 20px 0px 10px 250px;
-}
+  .title {
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 12px;
+    margin: 0px;
+    margin-top: 40px;
+    padding: 20px 0px 10px 250px;
+  }
 
-header a {
-  color: #000000;
-}
+  .tagline {
+    color: #333333;
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    padding: 0px 0px 20px 253px;
+    margin: 0px;
+  }
 
-header a:hover {
-  color: #000000;
-}
+  a {
+    color: $title-color;
+  }
 
-header p {
-  color: #333333;
-  font-size: 14px;
-  font-weight: normal;
-  letter-spacing: 4px;
-  padding: 0px 0px 20px 253px;
-  margin: 0px;
 }
 
 nav {
@@ -67,54 +72,60 @@ nav {
   margin-top: -100px;
   margin-bottom: 25px;
   padding: 20px 0px;
-  color: rgb(119, 119, 119);
-}
 
-nav ul {
-  list-style-type: none;
-  padding: 0px;
-}
+  ul {
+    list-style-type: none;
+    padding: 0px;
 
-nav li {
-  display: inline;
+    li {
+      display: inline;
+    }
+
+  }
+
 }
 
 aside {
   width: 230px;
+  text-align: right;
   float: right;
+
+  .title {
+    border-bottom-style: solid;
+    border-width: 2px;
+    color: $title-color;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+  }
+
+  ul {
+    margin-top: 5px;
+    list-style-type: none;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .license {
+    display: block;
+    padding-top: 50px;
+  }
+
 }
 
-aside h1 {
-  border-bottom-style: solid;
-  border-width: 2px;
-  color: #000000;
-  font-size: 18px;
-  font-weight: bold;
-  letter-spacing: 2px;
-  margin-bottom: 0px;
-  padding-bottom: 2px;
-  text-align: right;
-}
-
-aside ul {
-  margin-top: 5px;
-  list-style-type: none;
-  padding-right: 0px;
-  padding-left: 0px;
-  text-align: right;
-}
-
-section.site {
+main {
   width: 700px;
   float: left;
 }
 
-section.site>h1 {
+main>h1 {
   border-bottom-style: solid;
   border-width: 2px;
   margin-bottom: 2px;
   padding-bottom: 2px;
-  color: #000000;
+  color: $title-color;
   font-size: 18px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -125,33 +136,33 @@ section.site>h1 {
   width: 100%;
 }
 
-section>h1 .permalink {
+h1 .permalink {
   font-size: 12px;
   text-transform: uppercase;
   text-align: right;
 }
 
-section.site>h2 {
+main>h2 {
   font-size: 20px;
   margin-top: 0px;
   color: brown;
 }
 
-section.site>h2.dateline {
+main>h2.dateline {
   text-align: right;
   margin-top: -15px;
   margin-bottom: 75px;
 }
 
-section.site>h2>a {
+main>h2>a {
   color: brown;
 }
 
-section.site>h2>a:hover {
+main>h2>a:hover {
   color: brown;
 }
 
-section.site>div.date {
+main>div.date {
   margin-top: -13px;
   padding-bottom: 10px;
   font-size: 11px;
@@ -160,12 +171,12 @@ section.site>div.date {
   letter-spacing: 2px;
 }
 
-section.site>article {
+main>article {
   padding: 0px 20px 0px 20px;
   line-height: 25px;
 }
 
-section.site>article>h1 {
+main>article>h1 {
   color: #333333;
   font-size: 20px;
   font-weight: bold;
@@ -174,7 +185,7 @@ section.site>article>h1 {
   border-width: 1px;
 }
 
-section.site>article>h2 {
+main>article>h2 {
   color: #333333;
   font-size: 18px;
   margin-left: 0px;
@@ -182,33 +193,26 @@ section.site>article>h2 {
   border-width: 1px;
 }
 
-section.site table {
+main table {
   width: 100%;
   margin-bottom: 20px;
 }
 
-section.site table>thead {
+main table>thead {
   text-align: left;
   color: rgb(120, 183, 73);
 }
 
-section.site table>tbody>tr:nth-child(2n+1) {
+main table>tbody>tr:nth-child(2n+1) {
   background-color: rgb(45, 45, 45);
 }
 
-section.site table th {
+main table th {
   padding: 1px 5px;
 }
 
-section.site table td {
+main table td {
   padding: 1px 5px;
-}
-
-footer.site {
-  text-align: right;
-  padding: 75px 0px;
-  width: 100%;
-  float: left;
 }
 
 footer.paginator {
