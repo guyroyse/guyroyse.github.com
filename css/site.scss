@@ -230,6 +230,11 @@ article {
 
   }
 
+  .youtube {
+    width: 50vw;
+    height: 37.5vw;
+  }
+
 }
 
 .paginator {
@@ -304,6 +309,12 @@ article {
   main {
     width: 100%;
     float: none;
+
+    .youtube {
+      width: 80vw;
+      height: 60vw;
+    }
+
   }
 
 }
