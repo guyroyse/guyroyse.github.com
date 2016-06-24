@@ -144,8 +144,9 @@ main {
     margin-bottom: 2px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-end;
+    -webkit-flex-direction: row;
+    -webkit-justify-content: space-between;
+    -webkit-align-items: flex-end;
   }
 
   .permalink {
