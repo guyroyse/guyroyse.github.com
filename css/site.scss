@@ -233,8 +233,8 @@ article {
   }
 
   .youtube {
-    width: 50vw;
-    height: 37.5vw;
+    width: $content-width - 40px;
+    height: ($content-width - 40px) * 3 / 4;
   }
 
 }
@@ -277,6 +277,12 @@ article {
 
   main {
     width: 70%;
+
+    .youtube {
+      width: calc(70vw - 80px);
+      height: calc((70vw - 80px) * 3 / 4);
+    }
+
   }
 
 }
@@ -313,8 +319,8 @@ article {
     float: none;
 
     .youtube {
-      width: 80vw;
-      height: 60vw;
+      width: calc(100vw - 70px);
+      height: calc((100vw - 70px) * 3 / 4);
     }
 
   }
