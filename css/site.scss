@@ -60,6 +60,7 @@ header {
   height: $sidebar-width;
 
   .logo {
+    margin-top: -150px;
     float: left;
   }
 
@@ -330,34 +331,43 @@ article {
 @media (max-width: 600px) {
 
   header {
+
+    text-align: center;
+
     .tagline {
       display: none;
     }
-  }
 
-}
-
-@media (max-width: 540px) {
-
-  header {
-    text-align: center;
+    .title {
+      text-align: right;
+      margin-right: 20px;
+      padding: 50px 0px 20px 230px;
+    }
 
     .logo {
-      float: none;
+      float: left;
     }
 
     .box {
-      margin-top: -230px;
-    }
-
-    .title {
-      display: none;
+      margin-top: 0px;
     }
 
   }
 
   nav {
     display: none;
+  }
+
+}
+
+@media (max-width: 454px) {
+
+  header {
+
+    .title {
+      padding: 10px 0px 20px 230px;
+    }
+
   }
 
 }
