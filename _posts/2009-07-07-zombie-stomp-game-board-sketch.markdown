@@ -6,7 +6,7 @@ date:   2009-07-07 23:39:00
 
 So, as planned, here is the sketch for the Zombie Stomp! Gameboard.
 
-[![Zombie Stomp! Game Board Sketch](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/dwGIjU7GXL/zombie-stomp/zombie-stomp-gameboard-sketch-small.jpg)](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/0FH_L3P7yb/zombie-stomp/zombie-stomp-gameboard-sketch.jpg)
+[![Zombie Stomp! Game Board Sketch](/images/zombie-stomp/zombie-stomp-gameboard-sketch-small.jpg)](/images/zombie-stomp/zombie-stomp-gameboard-sketch.jpg)
 
 There are a couple of things to note here:
 
@@ -39,4 +39,3 @@ license so that you and your friends can take this content, remix it, create
 maps, expand the rules, or whatever. I heartily encourage you to do this. Right
 now. Right this second. Go crazy! Just be sure to post links to your stuff in
 the comments so everyone else can share in the fun.
-

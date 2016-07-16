@@ -6,7 +6,7 @@ date:   2009-08-29 17:52:00
 
 Just a little update on the progress of the Zombie Stomp! gameboard.
 
-[![Zombie Stomp! WIP 3](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/chn6cdnVD6/zombie-stomp/zombie-stomp-gameboard-wip-3-small.jpg)](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/H4Ix_yZuwG/zombie-stomp/zombie-stomp-gameboard-wip-3.jpg)
+[![Zombie Stomp! WIP 3](/images/zombie-stomp/zombie-stomp-gameboard-wip-3-small.jpg)](/images/zombie-stomp/zombie-stomp-gameboard-wip-3.jpg)
 
 As you can see, the ship is pretty much done now.  All that's left to do is
 damage the ship up to match the sketch, add thrusters, and then add details in

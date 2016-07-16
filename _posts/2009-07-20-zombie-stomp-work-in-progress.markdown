@@ -8,7 +8,7 @@ I've been working hard on the Zombie Stomp! game-board and though I would share
 a work in progress image so y'all knew I was working on something and hadn't
 abandoned the project. So, here it is.
 
-[![Zombie Stomp! WIP](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/DiHmRJY1xp/zombie-stomp/zombie-stomp-gameboard-wip-1-small.jpg)](https://dl.dropboxusercontent.com/sh/7kg7gruld3lwwlt/tsZ2FGhMbV/zombie-stomp/zombie-stomp-gameboard-wip-1.jpg)
+[![Zombie Stomp! WIP](/images/zombie-stomp/zombie-stomp-gameboard-wip-1-small.jpg)](/images/zombie-stomp/zombie-stomp-gameboard-wip-1.jpg)
 
 As you can see, I have got the interior walls and structure in place and the
 textures on the floor. I've also added doors but not any hatches yet. Exterior
@@ -27,4 +27,3 @@ including in the PDF detailed rules and the game-board—conveniently sized for
 printing on card stock, cutting up, and spreading out on the gaming table—plus
 cutout zombies and humans that can be folded as little triangles and used a
 game pieces.
-
