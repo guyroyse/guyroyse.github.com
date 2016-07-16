@@ -1,6 +1,14 @@
 # Todo List of Doing
 
-This list is nothing more than what I have left to do to migrate my Blogger
-blog to Jekyll and GitHub and what I would like to do in the future.
+This is a list is things I'd like to do to my site.
 
 ## To Do
+
+- make schedule use jekyll instead of being hard coded
+- add comments
+
+## Blog Posts
+
+- On Switch Statements
+- Where to Track Tech Debt
+- series of posts on JavaScript tech debt plays
