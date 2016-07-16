@@ -29,7 +29,7 @@ Cubmaster for his kids' Cub Scout Pack and studies Spanish.
 
 An avid gamer for decades, Guy bemoans the glut of fantasy in role-playing and
 yearns for more science fiction in gaming. His favorite games include
-*BattleTech*, *Dungeons & Dragons*<sup>*</sup>, *Illuminati*, *In Nomine*, *Munchkin*, *Paranoia*, and
+*BattleTech*, *Dungeons & Dragons* <sup>1</sup>, *Illuminati*, *In Nomine*, *Munchkin*, *Paranoia*, and
 *Risus*.
 
 On the fiction front, Guy prefers to read Science Fiction although he has been
@@ -42,4 +42,4 @@ Guy still lives in Ohio with his wife, three strapping young scouts, a fat
 cow-cat named Madeline, and an entire wall of games. He attends church every
 Sunday—and actually pays attention—but he's not a prude about it.
 
-<sup>*</sup> *Yes, I realize I bemoan the glut of fantasy RPGs but play D&D. Sue me.*
+<sup>1</sup> *Yes, I realize I bemoan the glut of fantasy RPGs but play D&D. Sue me.*
