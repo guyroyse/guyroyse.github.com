@@ -12,3 +12,9 @@ This is a list is things I'd like to do to my site.
 - On Switch Statements
 - Where to Track Tech Debt
 - series of posts on JavaScript tech debt plays
+- Hidden Globals: Session
+- Hidden Globals: Context
+- Hidden Globals: Cookies
+- Hidden Globals: Pub Sub
+- Test Pyramid Musings
+- Chiastic Code

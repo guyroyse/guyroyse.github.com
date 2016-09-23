@@ -38,8 +38,8 @@ their flavor, not their substance (I'm looking at you, Doctor). Some of his
 favorite authors include *Douglas Adams*, *Greg Bear*, *Larry Niven*, *Fredrick Pohl*,
 *Scott Sigler*, and *Dan Simmons*.
 
-Guy still lives in Ohio with his wife, three strapping young scouts, a fat
-cow-cat named Madeline, and an entire wall of games. He attends church every
-Sunday—and actually pays attention—but he's not a prude about it.
+Guy lives in Ohio with his wife, his three sons, and an entire wall of games. He
+attends church every Sunday—and actually pays attention—but he's not a prude about
+it.
 
 <sup>1</sup> *Yes, I realize I bemoan the glut of fantasy RPGs but play D&D. Sue me.*
