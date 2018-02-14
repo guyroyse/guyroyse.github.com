@@ -7,11 +7,17 @@ I love to speak at conferences and other events. If you're interested in having 
 
 # Upcoming Talks & Workshops
 
-- October 16-28: [Prairie.Code()](http://prairiecode.amegala.com/)
+- February 19: [Columbus Ruby Brigade](http://columbusrb.com/)
+- February 21: [Columbus JavaScript Usergroup](http://columbusjs.org/)
+- February 22: [Central Ohio .NET Developers Group](http://condg.org/)
+- February 26: [Columbus Scala Enthusiasts](https://www.meetup.com/Columbus-Scala-Enthusiasts/)
+- March 13: [Central Ohio Java users Group](http://www.cojug.org/)
+- March 28-30: [Code PaLOUsa](http://www.codepalousa.com/)
 
 # Upcoming Events I'm Attending
 
-- October 19: [Columbus JavaScript Usergroup](http://cbusjs.github.io)
-- October 22: [Global Day of Code Retreat](http://globalday.coderetreat.org/) & [Columbus Code Camp](http://columbuscodecamp.com/)
-- November 16: [Columbus JavaScript Usergroup](http://cbusjs.github.io)
-- January 10-13: [CodeMash](http://www.codemash.org/)
+- February 26: [Central Ohio Python Users Group](https://www.meetup.com/Central-Ohio-Python-Users-Group/)
+- March 6: [Westerville Web Meetup](https://www.meetup.com/westervilleweb/)
+- March 7: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/)
+- March 21: [Columbus JavaScript Usergroup](http://cbusjs.github.io)
+- March 22: [Product Hunt Columbus](https://www.meetup.com/Product-Hunt-Columbus/)
