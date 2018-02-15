@@ -13,6 +13,9 @@ I love to speak at conferences and other events. If you're interested in having 
 - February 26: [Columbus Scala Enthusiasts](https://www.meetup.com/Columbus-Scala-Enthusiasts/)
 - March 13: [Central Ohio Java users Group](http://www.cojug.org/)
 - March 28-30: [Code PaLOUsa](http://www.codepalousa.com/)
+- April 16-18: [Indy.Code()](https://indycode.amegala.com/)
+- May 9-10: [NDC Minnesota](https://ndcminnesota.com/)
+
 
 # Upcoming Events I'm Attending
 
@@ -21,3 +24,7 @@ I love to speak at conferences and other events. If you're interested in having 
 - March 7: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/)
 - March 21: [Columbus JavaScript Usergroup](http://cbusjs.github.io)
 - March 22: [Product Hunt Columbus](https://www.meetup.com/Product-Hunt-Columbus/)
+- April 4: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/)
+- May 2: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/)
+- May 4: [StirTrek](https://www.stirtrek.com/)
+- May 16: [Columbus JavaScript Usergroup](http://cbusjs.github.io)
