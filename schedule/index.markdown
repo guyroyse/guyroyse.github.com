@@ -20,8 +20,7 @@ I love to speak at conferences and other events. If you're interested in having 
 # Upcoming Events I'm Attending
 
 - February 26: [Central Ohio Python Users Group](https://www.meetup.com/Central-Ohio-Python-Users-Group/)
-- March 6: [Westerville Web Meetup](https://www.meetup.com/westervilleweb/)
-- March 7: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/)
+- March 6: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/)
 - March 21: [Columbus JavaScript Usergroup](http://cbusjs.github.io)
 - March 22: [Product Hunt Columbus](https://www.meetup.com/Product-Hunt-Columbus/)
 - April 4: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/)
