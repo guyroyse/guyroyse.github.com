@@ -18,7 +18,7 @@ Guy loves to speak and teach and will go to any conference that will give him
 an audience and teach anyone who wants to learn. He normally speaks about
 technology but has been known to wander into other topics.
 
-Currently, Guy works for Nexosis, a machine learning company in Columbus, Ohio
+Currently, Guy works for Nexosis, a machine learning company in Columbus,
 where they pay him to do what he loves. He is also the chief organizer for the
 Columbus JavaScript User Group and is active in the local development community
 in Columbus.
