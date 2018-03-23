@@ -147,13 +147,11 @@ main {
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
-  }
 
-  .permalink {
-    font-size: 12px;
-    align-self: flex-end;
-    text-transform: uppercase;
-    padding-left: 20px;
+    a {
+      color: $text-color;
+    }
+
   }
 
   .dateline {

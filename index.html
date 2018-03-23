@@ -5,7 +5,7 @@ title: Blog
 
 {% for post in paginator.posts %}
 
-  <h1 class="title">{{ post.title }}<a class="permalink" href="{{ post.url }}">permalink</a></h1>
+  <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
   <article>
     {{ post.content }}
