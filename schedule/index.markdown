@@ -1,27 +1,25 @@
 ---
 layout: page
-title: Conference & Speaking Schedule
+title: Event Schedule
 ---
 
-I love to speak at conferences and other events. If you're interested in having me at you event, please [contact me](mailto:guy@guyroyse.com).
+I love to speak at conferences and other events. If you're interested in having me at your event, please [reach out](mailto:guy@guyroyse.com).
 
 # Upcoming Events I'm Speaking At
 
-- April 16-18: [Indy.Code()](https://indycode.amegala.com/) - Indianapolis, Indiana
-- April 19: [Momentum](http://momentumdevcon.com/) - Cincinnati, Ohio
-- April 30: [Central Ohio Python Users Group](https://www.meetup.com/Central-Ohio-Python-Users-Group/) - Columbus, Ohio
-- May 9-10: [NDC Minnesota](https://ndcminnesota.com/) - Minneapolis, Minnesota
-- May 17-18: [RevolutionConf](https://revolutionconf.com/) - Virginia Beach, Virginia
-- June 1-2: [Music City Tech](http://www.musiccitytech.com/) - Nashville, Tennessee
-- June 20: [Great Lakes Area .NET Users Group](https://www.meetup.com/Great-Lakes-Area-NET-User-Group-GANG/) - Southfield, Michigan
-- June 21: [Technology & Networking User Group](https://www.meetup.com/Technology-Networking-User-Group/) - Troy, Michigan
-- June 22-23: [Beer City Code](http://beercitycode.com/) - Grand Rapids, Michigan
+- December 10: [Southeast Michigan JavaScript](https://www.meetup.com/SEM-JS/events/256735821/) - Ann Arbor, Michigan
+- December 19: [JavaScript MN](https://www.meetup.com/JavaScriptMN/events/tqfvfqyxqbjc/) - Minneapolis, Minnesota
+- January 8-11: [CodeMash](http://www.codemash.org/) - Sandusky, Ohio
+- January 23-25: [SnowCamp](https://snowcamp.io/en/) - Grenoble, France
+- January 18 - February 1: [NDC London](https://ndc-london.com/talk/an-introduction-to-webassembly/) - London, United Kingdom
+- February 9-10: [PyTennessee](https://www.pytennessee.org/) - Nashville, Tennessee
+- February 27: [North West Valley .NET User Group](https://www.meetup.com/NWVDNUG/events/256788926/) - Phoenix, Arizona
+- February 28: [Southeast Valley .NET User Group](https://www.meetup.com/sevdnug/events/256789033) - Phoenix, Arizona
+- March 2: [South Florida Code Camp](https://www.fladotnet.com/codecamp/SpeakerBio.aspx?SpeakerID=930) - Fort Lauderdale, Florida
+- March 6-8: [DevNexus](https://devnexus.com/speakers/1495) - Atlanta, Georgia
+- April 24-26: [Indy.Code()](https://indycode.amegala.com/) - Indianapolis, Indiana
+- April 30 - May 3: [ODSC East](https://odsc.com/boston) - Boston, Massachusetts
 
 # Upcoming Events I'm Attending
 
-- April 3: [Columbus Elixir](https://www.meetup.com/columbus-elixir/) - Columbus, Ohio
-- April 4: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/) - Columbus, Ohio
-- April 9: [MLH Localhost: Time Machine Learning](https://www.eventbrite.com/e/time-machine-learning-natural-language-processing-with-nexosis-tickets-44558567876) - New York, New York
-- April 27: [CBusStudentHack](https://cbusstudenthack.org/) - Columbus, Ohio
-- May 2: [Columbus Machine Learners](https://www.meetup.com/Columbus-Machine-Learners/) - Columbus, Ohio
-- May 4: [StirTrek](https://www.stirtrek.com/) - Columbus, Ohio
+- February 1: [PubConf London](https://pubconf.io/) - London, United Kingdom
