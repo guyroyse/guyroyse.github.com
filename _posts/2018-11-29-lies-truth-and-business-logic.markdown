@@ -34,6 +34,4 @@ Machine learning, it turns out, doesn't change what I'm doing. I'm still writing
 
 And that's not scary. That's empowering!
 
------
-
-This post originally appeared on [DataRobot.com](https://blog.datarobot.com/machine-learning-for-developers-lies-truth-and-business-logic).
+*This post originally appeared on [DataRobot.com](https://blog.datarobot.com/machine-learning-for-developers-lies-truth-and-business-logic).*
