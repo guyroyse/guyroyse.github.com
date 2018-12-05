@@ -4,7 +4,7 @@ title:  "Northern Meetups"
 date:   2018-12-05 13:03:00
 ---
 
-I've got a couple of upcoming meetups in some of the more northern states in the new week or so. Specifically, Michigan and Minnesota.
+I've got a couple of upcoming meetups in some of the more northerly states in the next week or so. Specifically, Michigan and Minnesota.
 
 ![Yo](/images/aaaaaaaaaaaaaaaaaaaaaaa.jpg)
 
