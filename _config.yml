@@ -1,7 +1,7 @@
 name: Guy Royse
 description: Work. Life. Code. Game. Lather. Rinse. Repeat.
 url: http://guyroyse.com
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-redirect-from
