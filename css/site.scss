@@ -140,6 +140,10 @@ aside {
 main {
   width: $content-width;
   float: left;
+  
+  img {
+    width: 100%;
+  }
 
   .title {
     margin-bottom: 2px;
