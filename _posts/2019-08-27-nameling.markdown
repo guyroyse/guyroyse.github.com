@@ -4,9 +4,9 @@ title:  "Namelings, Namespaces, Nicknames, and Aliases"
 date:   2019-08-27 19:12:00
 ---
 
-So, I like words. Old words. New words. Obscure words. And, most interestingly, forgotten words. I'm not the only one who likes this sort of stuff. And, Several years ago I found this site called the [Compendium of Lost Words](http://phrontistery.info/clw.html).
+So, I like words. Old words. New words. Obscure words. And, most interestingly, forgotten words. I'm not the only one who likes this sort of stuff. And, several years ago, I found this site called the [Compendium of Lost Words](http://phrontistery.info/clw.html).
 
-One word I learned from it struck me as useful. That word: *nameling*. A nameling is someone with whom you share a name. My name is Guy and I don't encounter namelings very often as my name is, shall we say, uncommon. However, you might have a more common name like Bill or George (anything but Sue) and known several namelings. Regardless, we can now talk about the idea.
+One word I learned from it struck me as useful. That word: *nameling*. A nameling is someone with whom you share a name. My name is Guy and I don't encounter namelings very often as my name is, shall we say, uncommon. However, you might have a more common name like Bill or George (anything but Sue) and known several namelings. Regardless, now that we have a word for it, we can talk easily about the idea.
 
 And, we can extend the idea of a nameling to other things. Things like software. Namelings occur all the time in software. We'll be creating some module for our project and realize that its name conflicts with an existing module from another library. Or maybe we'll have two libraries that have conflicting module names. Those modules are namelings.
 
@@ -16,6 +16,10 @@ We typically solve this problem using namespaces and aliases.
 
 Namespaces provide a container, or *space*, for names to exist inside of to alleviate the conflict caused by the namelings. Among humans, this is the purpose served by surnames.
 
-Aliases allow us to give namelings another name in a particular context. They are *nicknames* for the namelings when they need to be worked with at the same time. And, among humans, we use nicknames to clearly talk to, with, and about namelings.
+Aliases allow us to give namelings another name in a particular context. They are *nicknames* for the namelings that we use when we need to work with namelings at the same time and find using the namespace burdensome. Among humans, we use nicknames to clearly talk to, with, and about namelings.
 
-I propose we change how we talk about our code in this regard. We should uses those older words instead of inventing new one. Namespaces are used to resolve namelings. Nicknames are given to namelings when both are in the code together. This is way more fun than naming conflicts and alias!
+I propose we change how we talk about our code in this regard. We should uses those older words instead of inventing new one. So, we can talk about it like this:
+
+> **Namespaces** are used to resolve **namelings**. **Nicknames** are given to **namelings** when both are in the code together and we don't want to use **namespaces**.
+
+This is way more fun than naming conflicts and aliases!
