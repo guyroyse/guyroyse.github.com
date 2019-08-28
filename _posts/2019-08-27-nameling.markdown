@@ -18,7 +18,7 @@ Namespaces provide a container, or *space*, for names to exist inside of to alle
 
 Aliases allow us to give namelings another name in a particular context. They are *nicknames* for the namelings that we use when we need to work with namelings at the same time and find using the namespace burdensome. Among humans, we use nicknames to clearly talk to, with, and about namelings.
 
-I propose we change how we talk about our code in this regard. We should uses those older words instead of inventing new one. So, we can talk about it like this:
+I propose we change how we talk about our code in this regard. We should use these older words instead of inventing new one. So, we can talk about it like this:
 
 > **Namespaces** are used to resolve **namelings**. **Nicknames** are given to **namelings** when both are in the code together and we don't want to use **namespaces**.
 
