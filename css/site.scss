@@ -16,8 +16,8 @@ $subtitle-color: $lighter-text-color;
 $dateline-color: $lighter-text-color;
 
 $content-width: 700px;
-$sidebar-width: 230px;
-$gap-width: 150px;
+$sidebar-width: 280px;
+$gap-width: 100px;
 $site-width: $content-width + $gap-width + $sidebar-width;
 
 @keyframes BOBBLE {
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: left;
-  height: $sidebar-width;
+  height: 230px;
 
   .logo {
     margin-top: -150px;
