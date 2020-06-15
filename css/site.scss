@@ -5,10 +5,10 @@
 
 $base-font: 20px Raleway, sans-serif;
 
-$text-color: #111111;
-$lighter-text-color: #333333;
+$text-color: #1a1921;
+$lighter-text-color: #ce9a5f;
 $background-color: #ffffff;
-$alternate-background-color: #faf4ed;
+$alternate-background-color: #faf8fa;
 $link-color: #a52a2a;
 
 $title-color: $text-color;
@@ -168,6 +168,7 @@ main {
     margin-bottom: 75px;
     color: $dateline-color;
     font-size: 16px;
+    font-weight: bold;
   }
 
   .archive {
