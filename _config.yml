@@ -4,12 +4,9 @@ url: http://guyroyse.com
 plugins:
   - jekyll-paginate
   - jekyll-feed
-  - jekyll-redirect-from
   - jekyll-sass-converter
   - kramdown
   - rouge
-whitelist:
-  - jekyll-redirect-from
 markdown: kramdown
 highlighter: rouge
 timezone: America/Detroit
