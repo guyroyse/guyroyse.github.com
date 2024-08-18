@@ -1,0 +1,14 @@
+{
+  "name": "guyroyse.github.com",
+  "description": "Congratulations! Thou hast discovered to code behind my website, [GuyRoyse.com](http://guyroyse.com). Therein thou shalt find many works and wonders! Go there with grand haste and compass it about thee.",
+  "version": "1.0.0",
+  "author": "Guy Royse <guy@guyroyse.com>",
+  "license": "Copyright © 2024 Guy Royse. All rights reserved.",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.5",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10"
+  },
+  "private": true
+}
